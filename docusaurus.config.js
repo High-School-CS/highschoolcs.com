@@ -128,7 +128,7 @@ const config = {
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} High School CS.`,
+                copyright: `Copyright © ${new Date().getFullYear()} High School CS. Sponsored by <a href='https://axcdev.com'>Alan Xiao & Co. Development</a>.`,
             },
             prism: {
                 theme: lightCodeTheme,
